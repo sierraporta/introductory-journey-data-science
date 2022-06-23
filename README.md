@@ -10,9 +10,10 @@ Some basic tools to start the journey. These notes are produced in the framework
 Data science combines multiple fields, including statistics, scientific methods, artificial intelligence (AI) and data analytics, to extract value from data. Professionals who use data science are known as data scientists and apply a combination of diverse skills to analyze data collected from the web, smartphones, customers, sensors and other sources to generate actionable insights.
 
 Data science includes the tasks of preparing data for analytics, such as cleaning, aggregating, and manipulating data for advanced data analytics. Analytic applications and data scientists can review the results to discover patterns and provides business leaders with informed insights.
-Data science: An undiscovered resource for machine learning
 
-# Data science is one of the most exciting fields out there today. 
+# Data science: An undiscovered resource for machine learning
+Data science is one of the most exciting fields out there today. 
+
 ## Why is it so important?
 
 Because companies are sitting on a treasure trove of data. As modern technology has enabled the creation and storage of ever-increasing amounts of information, data volumes have increased. It is estimated that 90% of the world's data was created in the last two years. For example, Facebook users upload 10 million photos per hour.
