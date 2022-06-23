@@ -7,9 +7,9 @@ Some basic tools to start the journey. These notes are produced in the framework
 </p>
 
 This small introductory course is given in three days and provides materials and resources addressing three topics in three days:
-|Module|Contents|
-|--|--|
-| 1 | Exploratory data analysis and imputation methods. |
-| 2 | Clustering analysis. |
-| 3 | Introduction to regression with machine learning. |
+| Module | Contents | Notebooks |
+| -- | -- | -- |
+| 1 | Exploratory data analysis and imputation methods. | -- |
+| 2 | Clustering analysis. | -- | 
+| 3 | Introduction to regression with machine learning. | -- |
 
