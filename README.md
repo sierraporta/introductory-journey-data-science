@@ -3,7 +3,7 @@
 Some basic tools to start the journey. These notes are produced in the framework of the International Workshop in Statistics and Data Science held at UTB between June 29 and July 1, 2022.
 
 <p float="left">
-  <img src="https://www.byui.edu/images/Mauricio%20Test/Data-Science-Banner.jpg" width="1000" height=180 />
+  <img src="https://www.altimanalytics.es/wp-content/uploads/2021/06/banner-data-science-002-1024x341.jpg" width="1000" height=180 />
 </p>
 
 # Introduction
