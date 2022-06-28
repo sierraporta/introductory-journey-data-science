@@ -28,7 +28,7 @@ Data is the foundation of innovation, but its value comes from the information t
 This small introductory course is given in three days and provides materials and resources addressing three topics in three days:
 | Module | Contents | Notebooks |
 | -- | -- | -- |
-| 1 | Exploratory data analysis and imputation methods. | -- |
+| 1 | Exploratory data analysis and imputation methods. | [Inputation_Machine_Learning.ipynb](Notebooks/Inputation_Machine_Learning.ipynb) |
 | 2 | Clustering analysis. | -- | 
 | 3 | Introduction to regression with machine learning. | -- |
 
