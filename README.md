@@ -29,6 +29,6 @@ This small introductory course is given in three days and provides materials and
 | Module | Contents | Notebooks |
 | -- | -- | -- |
 | 1 | Exploratory data analysis and imputation methods. | [Inputation_Machine_Learning.ipynb](Notebooks/Inputation_Machine_Learning.ipynb) |
-| 2 | Clustering analysis. | -- | 
-| 3 | Introduction to regression with machine learning. | -- |
+| 2 | Clustering analysis. | [Clustering_Machine_Learning.ipynb](Notebooks/Clustering_Machine_Learning.ipynb) | 
+| 3 | Introduction to regression with machine learning. | [Ensemble_Methods.ipynb](Notebooks/Ensemble_Methods.ipynb) |
 
